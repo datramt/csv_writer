@@ -1,5 +1,5 @@
 //net ninja ts tutorial (for practice)
-//refactor aprt 1
+//refactor part 2
 
 import { appendFileSync } from 'fs'
 

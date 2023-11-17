@@ -8,8 +8,6 @@ interface Payment {
     notes: string
 }
 
-//type PaymentColumns = ('id' | 'amount' | 'to' | 'notes')[]
-
 const paymentWriter = new CSVWriter<Payment>(['id', 'amount', 'to', 'notes'])
 
 paymentWriter.addRows([

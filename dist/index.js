@@ -1,6 +1,6 @@
 "use strict";
 //net ninja ts tutorial (for practice)
-//refactor aprt 1
+//refactor part 2
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.CSVWriter = void 0;
 const fs_1 = require("fs");
